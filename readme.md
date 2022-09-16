@@ -1,6 +1,6 @@
 # Nlw eSpots - Trilha explorer
 
-![preview] (./.github/preview.png)
+![Preview] (./.github/preview.png)
 
 Projeto constuido no evento Next level week da Rocketseat
 
